@@ -64,10 +64,11 @@
                 <?php
                     }
                 ?>  
-                
-   
+        </div> 
+        <?php include("sidebar.php");?>
+    </div>
 
-    <?php include("sidebar.php");?>
+   
     <?php include("footer.php");?>
 
 
